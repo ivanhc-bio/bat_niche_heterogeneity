@@ -1,0 +1,18 @@
+conjunto,predictor,vif,gl,gvif_ajustado
+volumen y distancias: tri_c + bio12 + log_n,tri_c,2.929019307738642,NA,NA
+volumen y distancias: tri_c + bio12 + log_n,bio12_rugosidad_media,2.933884246174131,NA,NA
+volumen y distancias: tri_c + bio12 + log_n,log_n,1.0031534005199363,NA,NA
+rango elev.: tri_c + tri_c2 + bio12 + elev_mediana + log_n,tri_c,15.374226220113421,NA,NA
+rango elev.: tri_c + tri_c2 + bio12 + elev_mediana + log_n,tri_c2,4.625120544635185,NA,NA
+rango elev.: tri_c + tri_c2 + bio12 + elev_mediana + log_n,bio12_rugosidad_media,4.284981422230928,NA,NA
+rango elev.: tri_c + tri_c2 + bio12 + elev_mediana + log_n,elev_mediana,14.582036731414144,NA,NA
+rango elev.: tri_c + tri_c2 + bio12 + elev_mediana + log_n,log_n,1.1719829639680601,NA,NA
+rango elev. con TRI SIN centrar (para mostrar el efecto de centrar),tri_cruda,18.240192237954645,NA,NA
+rango elev. con TRI SIN centrar (para mostrar el efecto de centrar),tri_cruda2,30.99219043697365,NA,NA
+rango elev. con TRI SIN centrar (para mostrar el efecto de centrar),bio12_rugosidad_media,4.284981422230927,NA,NA
+rango elev. con TRI SIN centrar (para mostrar el efecto de centrar),elev_mediana,14.582036731414089,NA,NA
+rango elev. con TRI SIN centrar (para mostrar el efecto de centrar),log_n,1.17198296396806,NA,NA
+"rango elev., GVIF con bloque TRI = poly(tri_c, 2)","poly(tri_c, 2)",29.32001684696993,2,2.326971444585152
+"rango elev., GVIF con bloque TRI = poly(tri_c, 2)",bio12_rugosidad_media,4.284981422230937,1,2.0700196671121116
+"rango elev., GVIF con bloque TRI = poly(tri_c, 2)",elev_mediana,14.582036731414163,1,3.8186433103150867
+"rango elev., GVIF con bloque TRI = poly(tri_c, 2)",log_n,1.1719829639680601,1,1.08258162000288
