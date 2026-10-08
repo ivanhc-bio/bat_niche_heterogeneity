@@ -53,6 +53,9 @@ GBIF records are **not redistributed** here: individual records carry different 
 
 ## Contact
 
+Iván Hernández-Chávez
+Laboratorio de Mastozoología Evolutiva y Colecciones Científicas, Facultad de Ciencias, UNAM
+ivanhc@ciencias.unam.mx
 Iván Alejandro Hernández Chávez
 
 Laboratorio de Mastozoología Evolutiva y Colecciones Científicas, Facultad de Ciencias, Universidad Nacional Autónoma de México
